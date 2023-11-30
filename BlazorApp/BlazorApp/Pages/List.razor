@@ -1,11 +1,14 @@
 ﻿@page "/list"
-@using Minecraft.Crafting.Models
+@using BlazorApp.Models
 
 <h3>List</h3>
 
 <DataGrid TItem="Item"
           Data="@items"
-          PageSize="int.MaxValue"
+          ReadData="@OnReadData"
+          TotalItems="@totalItem"
+          PageSize="10"
+          ShowPager
           Responsive>
     <DataGridColumn TItem="Item" Field="@nameof(Item.Id)" Caption="#" />
     <DataGridColumn TItem="Item" Field="@nameof(Item.DisplayName)" Caption="Display name" />
