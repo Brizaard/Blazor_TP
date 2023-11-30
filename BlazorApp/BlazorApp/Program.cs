@@ -1,13 +1,23 @@
 using BlazorApp.Data;
+using Blazorise.DataGrid;
+using Blazorise.Icons.FontAwesome;
+using Blazorise.Bootstrap;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Blazorise;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+builder.Services.AddHttpClient();
 builder.Services.AddSingleton<WeatherForecastService>();
+
+builder.Services
+   .AddBlazorise()
+   .AddBootstrapProviders()
+   .AddFontAwesomeIcons();
 
 var app = builder.Build();
 

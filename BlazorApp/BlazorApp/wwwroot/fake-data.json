@@ -1,0 +1,385 @@
+[
+  {
+    "id": 1,
+    "displayname": "Opportech",
+    "name": "opportech",
+    "stacksize": 54,
+    "maxdurability": 119,
+    "enchantcategories": [
+      "armor_chest",
+      "armor_chest",
+      "digger"
+    ],
+    "repairwith": [
+      "crimson_planks",
+      "dark_oak_planks"
+    ],
+    "createddate": "2016-10-30",
+    "updateddate": null
+  },
+  {
+    "id": 2,
+    "displayname": "Zuvy",
+    "name": "zuvy",
+    "stacksize": 60,
+    "maxdurability": 12,
+    "enchantcategories": [
+      "digger",
+      "vanishable",
+      "breakable"
+    ],
+    "repairwith": [
+      "jungle_planks"
+    ],
+    "createddate": "2017-01-11",
+    "updateddate": "2017-12-14"
+  },
+  {
+    "id": 3,
+    "displayname": "Prosure",
+    "name": "prosure",
+    "stacksize": 40,
+    "maxdurability": 60,
+    "enchantcategories": [
+      "armor_head",
+      "armor",
+      "armor"
+    ],
+    "repairwith": [
+      "acacia_planks"
+    ],
+    "createddate": "2014-01-19",
+    "updateddate": null
+  },
+  {
+    "id": 4,
+    "displayname": "Uberlux",
+    "name": "uberlux",
+    "stacksize": 40,
+    "maxdurability": 3,
+    "enchantcategories": [
+      "armor_chest",
+      "armor_head"
+    ],
+    "repairwith": [],
+    "createddate": "2019-09-27",
+    "updateddate": "2015-12-04"
+  },
+  {
+    "id": 5,
+    "displayname": "Bisba",
+    "name": "bisba",
+    "stacksize": 51,
+    "maxdurability": 118,
+    "enchantcategories": [
+      "vanishable",
+      "armor_head"
+    ],
+    "repairwith": [
+      "spruce_planks"
+    ],
+    "createddate": "2018-05-04",
+    "updateddate": null
+  },
+  {
+    "id": 6,
+    "displayname": "Isodrive",
+    "name": "isodrive",
+    "stacksize": 3,
+    "maxdurability": 18,
+    "enchantcategories": [
+      "armor_chest"
+    ],
+    "repairwith": [
+      "jungle_planks"
+    ],
+    "createddate": "2017-12-17",
+    "updateddate": null
+  },
+  {
+    "id": 7,
+    "displayname": "Flyboyz",
+    "name": "flyboyz",
+    "stacksize": 46,
+    "maxdurability": 110,
+    "enchantcategories": [
+      "armor_chest",
+      "digger",
+      "armor_chest"
+    ],
+    "repairwith": [
+      "acacia_planks"
+    ],
+    "createddate": "2014-07-27",
+    "updateddate": null
+  },
+  {
+    "id": 8,
+    "displayname": "Genesynk",
+    "name": "genesynk",
+    "stacksize": 20,
+    "maxdurability": 47,
+    "enchantcategories": [
+      "breakable"
+    ],
+    "repairwith": [],
+    "createddate": "2016-04-01",
+    "updateddate": null
+  },
+  {
+    "id": 9,
+    "displayname": "Menbrain",
+    "name": "menbrain",
+    "stacksize": 42,
+    "maxdurability": 84,
+    "enchantcategories": [
+      "armor_head"
+    ],
+    "repairwith": [
+      "oak_planks"
+    ],
+    "createddate": "2022-03-30",
+    "updateddate": null
+  },
+  {
+    "id": 10,
+    "displayname": "Bicol",
+    "name": "bicol",
+    "stacksize": 50,
+    "maxdurability": 78,
+    "enchantcategories": [
+      "armor_chest"
+    ],
+    "repairwith": [
+      "crimson_planks"
+    ],
+    "createddate": "2017-05-26",
+    "updateddate": "2021-06-13"
+  },
+  {
+    "id": 11,
+    "displayname": "Squish",
+    "name": "squish",
+    "stacksize": 42,
+    "maxdurability": 49,
+    "enchantcategories": [
+      "armor_chest",
+      "weapon"
+    ],
+    "repairwith": [],
+    "createddate": "2015-07-15",
+    "updateddate": "2018-04-15"
+  },
+  {
+    "id": 12,
+    "displayname": "Parleynet",
+    "name": "parleynet",
+    "stacksize": 35,
+    "maxdurability": 98,
+    "enchantcategories": [
+      "armor"
+    ],
+    "repairwith": [
+      "jungle_planks",
+      "dark_oak_planks"
+    ],
+    "createddate": "2014-06-07",
+    "updateddate": "2022-09-11"
+  },
+  {
+    "id": 13,
+    "displayname": "Comcubine",
+    "name": "comcubine",
+    "stacksize": 58,
+    "maxdurability": 1,
+    "enchantcategories": [
+      "armor_head"
+    ],
+    "repairwith": [
+      "crimson_planks"
+    ],
+    "createddate": "2023-09-09",
+    "updateddate": null
+  },
+  {
+    "id": 14,
+    "displayname": "Liquidoc",
+    "name": "liquidoc",
+    "stacksize": 28,
+    "maxdurability": 11,
+    "enchantcategories": [
+      "armor",
+      "breakable"
+    ],
+    "repairwith": [
+      "dark_oak_planks",
+      "warped_planks"
+    ],
+    "createddate": "2017-10-28",
+    "updateddate": "2020-03-26"
+  },
+  {
+    "id": 15,
+    "displayname": "Magnina",
+    "name": "magnina",
+    "stacksize": 39,
+    "maxdurability": 92,
+    "enchantcategories": [
+      "armor"
+    ],
+    "repairwith": [
+      "warped_planks",
+      "birch_planks"
+    ],
+    "createddate": "2023-10-16",
+    "updateddate": "2019-10-06"
+  },
+  {
+    "id": 16,
+    "displayname": "Mantro",
+    "name": "mantro",
+    "stacksize": 27,
+    "maxdurability": 8,
+    "enchantcategories": [],
+    "repairwith": [
+      "jungle_planks",
+      "acacia_planks"
+    ],
+    "createddate": "2019-07-07",
+    "updateddate": null
+  },
+  {
+    "id": 17,
+    "displayname": "Avenetro",
+    "name": "avenetro",
+    "stacksize": 44,
+    "maxdurability": 49,
+    "enchantcategories": [
+      "vanishable",
+      "digger"
+    ],
+    "repairwith": [
+      "acacia_planks",
+      "warped_planks"
+    ],
+    "createddate": "2023-01-01",
+    "updateddate": "2023-02-21"
+  },
+  {
+    "id": 18,
+    "displayname": "Ultrimax",
+    "name": "ultrimax",
+    "stacksize": 3,
+    "maxdurability": 11,
+    "enchantcategories": [
+      "armor_chest"
+    ],
+    "repairwith": [
+      "crimson_planks",
+      "jungle_planks"
+    ],
+    "createddate": "2019-03-14",
+    "updateddate": null
+  },
+  {
+    "id": 19,
+    "displayname": "Tourmania",
+    "name": "tourmania",
+    "stacksize": 54,
+    "maxdurability": 74,
+    "enchantcategories": [
+      "armor_head",
+      "breakable"
+    ],
+    "repairwith": [
+      "birch_planks"
+    ],
+    "createddate": "2016-12-14",
+    "updateddate": null
+  },
+  {
+    "id": 20,
+    "displayname": "Twiggery",
+    "name": "twiggery",
+    "stacksize": 47,
+    "maxdurability": 6,
+    "enchantcategories": [
+      "digger"
+    ],
+    "repairwith": [
+      "oak_planks",
+      "birch_planks"
+    ],
+    "createddate": "2020-05-28",
+    "updateddate": null
+  },
+  {
+    "id": 21,
+    "displayname": "Hotcakes",
+    "name": "hotcakes",
+    "stacksize": 26,
+    "maxdurability": 67,
+    "enchantcategories": [
+      "armor"
+    ],
+    "repairwith": [],
+    "createddate": "2018-10-20",
+    "updateddate": null
+  },
+  {
+    "id": 22,
+    "displayname": "Vicon",
+    "name": "vicon",
+    "stacksize": 27,
+    "maxdurability": 42,
+    "enchantcategories": [
+      "armor_head"
+    ],
+    "repairwith": [
+      "jungle_planks"
+    ],
+    "createddate": "2020-07-08",
+    "updateddate": "2023-05-19"
+  },
+  {
+    "id": 23,
+    "displayname": "Assurity",
+    "name": "assurity",
+    "stacksize": 58,
+    "maxdurability": 22,
+    "enchantcategories": [],
+    "repairwith": [
+      "acacia_planks"
+    ],
+    "createddate": "2021-12-18",
+    "updateddate": null
+  },
+  {
+    "id": 24,
+    "displayname": "Illumity",
+    "name": "illumity",
+    "stacksize": 49,
+    "maxdurability": 56,
+    "enchantcategories": [
+      "vanishable"
+    ],
+    "repairwith": [],
+    "createddate": "2021-07-06",
+    "updateddate": "2018-01-07"
+  },
+  {
+    "id": 25,
+    "displayname": "Niquent",
+    "name": "niquent",
+    "stacksize": 16,
+    "maxdurability": 71,
+    "enchantcategories": [
+      "digger"
+    ],
+    "repairwith": [
+      "spruce_planks"
+    ],
+    "createddate": "2016-02-06",
+    "updateddate": null
+  }
+]
