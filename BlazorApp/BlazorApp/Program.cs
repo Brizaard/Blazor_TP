@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Blazorise;
 using Blazored.LocalStorage;
+using BlazorApp.Services;
+using Blazored.Modal;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +23,10 @@ builder.Services
    .AddFontAwesomeIcons();
 
 builder.Services.AddBlazoredLocalStorage();
+
+builder.Services.AddScoped<IDataService, DataLocalService>();
+
+builder.Services.AddBlazoredModal();
 
 
 var app = builder.Build();
